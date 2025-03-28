@@ -1,4 +1,4 @@
-package ru.kata;
+package ru.kata.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
